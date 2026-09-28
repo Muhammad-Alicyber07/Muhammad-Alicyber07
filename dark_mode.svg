@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  dark_mode.svg - terminal-style GitHub profile banner.
+  EDIT: change the text nodes in the "info panel" section below (one <text> per line). Only [PLACEHOLDER]s are still unfilled.
+  Keys (OS, Languages, ...) have a fixed textLength; values are free text - keep each line under ~46 characters.
+  Contact rows: edit the visible text AND the href of the <a> that wraps it.
+  The ASCII portrait was generated from the supplied photograph; do not hand-edit it.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-labelledby="t d"
+     viewBox="0 0 1120 743" width="1120" height="743" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMTRkNmYxNi03OGQ0LTQ5YWEtODIxYy1lYmJiOTA2ZGEyZmIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAeVnhvx99oAK/yh6LcItCYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplMDkwZDdkNC0wYzA4LTRiY2MtODRiZS0xMGE2ODZhMTI5ZjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoefX38RMlrNjM4ppiBR+L9gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFyyAvh21BFDW0BCYWE2jP3MHnS3IkLruzFnD/bibSeOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMG70Sv+3ilsnFFE/Ht5t54AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIA96uZRvcELmlpF9PDIc8wS1TwexOJwhJEcYWR/+EN8TZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQLOZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAxNGQ2ZjE2LTc4ZDQtNDlhYS04MjFjLWViYmI5MDZkYTJmYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEyZTliZGVjLWE1ZGItNGNlNC1hNzJmLTI2MjEyZjQzZTEzYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAXLIC+HbUEUNbQEJhYTaM/cwedLciQuu7MWcP9uJtJ46JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgghxm+YnfQaBG4iFS2w4cpX3CnXWPkK2lD+Wtc4DflcfKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFoAGI9pOOsU5uP7jdSv7eiR9l5UO+jXcmJzHw4Owpop0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMDuwnp32up5ca+SEn7Cjtc4Y33+RHCHC9cHMp7bxOlO8dM/NklAP3yyAhMFt66Q+OBhLxvLy64X9ktA0RMTT5k=</c2pa:manifest></metadata>
+  <title id="t">Muhammad Ali - GitHub profile</title>
+  <desc id="d">Terminal-style profile: ASCII portrait on the left, profile details on the right.</desc>
+  <style>
+  text { font-family: 'JetBrains Mono','Cascadia Code','SF Mono',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace; white-space: pre; }
+  .frame { fill: #0e1319; stroke: #26303b; stroke-width: 1; }
+  .rule { stroke: #26303b; stroke-width: 1; }
+  .lead { stroke: #5d6b7a; stroke-width: 1.4; stroke-linecap: round; stroke-dasharray: 0.1 5; opacity: .8; }
+  .bar-dot { fill: #5d6b7a; opacity: .55; }
+  .bar-title { fill: #5d6b7a; font-size: 13px; }
+  .art { font-size: 8.14px; fill: #f2f6fa; }
+  .vb { fill: #d5dde6; font-size: 14px; font-weight: 700; }
+  .head { fill: #7aa2f7; font-size: 14px; font-weight: 700; }
+  .k { fill: #56c8d8; font-size: 14px; }
+  .v { fill: #b9d4f5; font-size: 14px; }
+  .prompt { fill: #5d6b7a; font-size: 14px; }
+  .prompt-user { fill: #56c8d8; font-size: 14px; }
+  .cursor { fill: #56c8d8; animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+</style>
+
+  <!-- window frame + title bar -->
+  <rect class="frame" x="0.5" y="0.5" width="1119" height="742" rx="12"/>
+  <circle class="bar-dot" cx="26" cy="21.0" r="5.5"/>
+  <circle class="bar-dot" cx="46" cy="21.0" r="5.5"/>
+  <circle class="bar-dot" cx="66" cy="21.0" r="5.5"/>
+  <text class="bar-title" x="560.0" y="25.5" text-anchor="middle">Muhammad-AliCyber07@github: ~/profile</text>
+  <line class="rule" x1="0.5" y1="42" x2="1119.5" y2="42"/>
+  <line class="rule" x1="604.8000000000001" y1="42" x2="604.8000000000001" y2="699.0"/>
+  <line class="rule" x1="0.5" y1="699.0" x2="1119.5" y2="699.0"/>
+
+  <!-- ascii portrait (generated from the photograph) -->
+  <text class="art" aria-hidden="true">
+    <tspan x="277.9" y="101.7" textLength="9.8" lengthAdjust="spacing">,_</tspan>
+    <tspan x="233.8" y="111.1" textLength="102.9" lengthAdjust="spacing">____ "``"*@@@"9ggr___</tspan>
+    <tspan x="228.9" y="120.5" textLength="132.3" lengthAdjust="spacing">*9@@@0*&lt;s@{__`  `9@@@@*   _</tspan>
+    <tspan x="209.3" y="129.9" textLength="166.6" lengthAdjust="spacing">"`   r""**"  `J@@@0*  **9@g_  **s~</tspan>
+    <tspan x="199.5" y="139.3" textLength="191.1" lengthAdjust="spacing">``    _   `*@@y ```` `*r   ``90*sg@@@g_</tspan>
+    <tspan x="209.3" y="148.7" textLength="191.1" lengthAdjust="spacing">-   `      `**r              ``"*""*09\</tspan>
+    <tspan x="184.8" y="158.1" textLength="220.5" lengthAdjust="spacing">-````        ``                          ``{`</tspan>
+    <tspan x="184.8" y="167.5" textLength="225.4" lengthAdjust="spacing">`                                          ""`</tspan>
+    <tspan x="317.1" y="176.9" textLength="102.9" lengthAdjust="spacing">_____y              -</tspan>
+    <tspan x="165.2" y="186.3" textLength="259.7" lengthAdjust="spacing">*`                   ___ggg@@@@@@@@@@@@@gy         "`</tspan>
+    <tspan x="160.3" y="195.7" textLength="264.6" lengthAdjust="spacing">_               `  -r@@@@@@@@@@@@@@@@@@@@@@@@g      s"</tspan>
+    <tspan x="160.3" y="205.1" textLength="230.3" lengthAdjust="spacing">"`    _       -"   g@$@@@@@@@@@@@@0@@@@@@@@@@@g</tspan>
+    <tspan x="155.4" y="214.5" textLength="264.6" lengthAdjust="spacing">`      @@g__   ` __g@G@@@@G$GG@@@@g{$$@@@@@@@@@@`Jggyr</tspan>
+    <tspan x="189.7" y="223.9" textLength="225.4" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@``**`</tspan>
+    <tspan x="189.7" y="233.3" textLength="240.1" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G   ``sg_</tspan>
+    <tspan x="189.7" y="242.7" textLength="240.1" lengthAdjust="spacing">J@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*     *@`</tspan>
+    <tspan x="189.7" y="252.1" textLength="235.2" lengthAdjust="spacing">`*@@@@@@@@@@@@@@@@@@G@GG@@@@@@@@@@@@@@@@L      `</tspan>
+    <tspan x="194.6" y="261.5" textLength="200.9" lengthAdjust="spacing">g@@@@@@@@@@@@@@@@@G$@Gr$G90@@@@@@@@@@@@@`</tspan>
+    <tspan x="189.7" y="270.9" textLength="205.8" lengthAdjust="spacing">J@@@@@@@09*********$@@G*"```````**0@@@@@@k</tspan>
+    <tspan x="189.7" y="280.3" textLength="205.8" lengthAdjust="spacing">@@@@@P"____    `-_s@@GG*```   `"*s@@@@@@@@</tspan>
+    <tspan x="189.7" y="289.7" textLength="210.7" lengthAdjust="spacing">@@@@@@@@P*``   `**9@@@@r``        `"*@@@@@L</tspan>
+    <tspan x="184.8" y="299.1" textLength="215.6" lengthAdjust="spacing">^@@@@@0*` .       "$@@@@@r            `9@@@k</tspan>
+    <tspan x="165.2" y="308.5" textLength="249.9" lengthAdjust="spacing">_   J@@@@G` _yssr"   rs@@@@@@gy`   `"***rs_g@@@@ __</tspan>
+    <tspan x="150.5" y="317.9" textLength="269.5" lengthAdjust="spacing">,m@@g} J@@@@gg@gg$sssrrg@@@@@@@@@@@grrrsgg@@@@@@@@@^J@0</tspan>
+    <tspan x="150.5" y="327.3" textLength="269.5" lengthAdjust="spacing">``@@@@`J@@@@@@@@@@@$gg@@@@@@@@@@@@@@@@gr$@@@@@@@@@@k$*_</tspan>
+    <tspan x="150.5" y="336.7" textLength="274.4" lengthAdjust="spacing">`"@@@P`J@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@k}`*r</tspan>
+    <tspan x="155.4" y="346.1" textLength="274.4" lengthAdjust="spacing">r@*" j @@@@@@@@@@@@@@GG@@@@@@@@@@@9G@@@@@@@@@@@@@@^@L r/</tspan>
+    <tspan x="155.4" y="355.5" textLength="269.5" lengthAdjust="spacing">`@` J@ J@@@@@@@@@@@@G*r@@@@@@@@@@@"*$@@@@@@@@G@@@F`@`_@</tspan>
+    <tspan x="160.3" y="364.9" textLength="264.6" lengthAdjust="spacing">"@__@L @@@@@@@@@@@$GrJ00@@@@00*9G"r$G@@@@@@Gs$@@""@@P`</tspan>
+    <tspan x="165.2" y="374.3" textLength="249.9" lengthAdjust="spacing">l@@@} J@@@@@@@@@@@$@gyr_@0**-__ggg$$G@@@@@G$@@@`J@"</tspan>
+    <tspan x="170.1" y="383.7" textLength="245.0" lengthAdjust="spacing">*@@k `@@@@@@@@@@@@@@@@9*"*``*9@@@@$$@@@@@G$@@F `9&gt;</tspan>
+    <tspan x="175.0" y="393.1" textLength="220.5" lengthAdjust="spacing">^*"` @@@@@@@@@@9***G$"  __-,g@*``*G@@@@@G@@G*</tspan>
+    <tspan x="194.6" y="402.5" textLength="200.9" lengthAdjust="spacing">`*@@@@@@@@*`  s0F*"""```"**   `$@@@@@GG*"</tspan>
+    <tspan x="199.5" y="411.9" textLength="196.0" lengthAdjust="spacing">"*G@@@@@@r     ___````___    r@@@@G***``</tspan>
+    <tspan x="199.5" y="421.3" textLength="191.1" lengthAdjust="spacing">``"9@@@@@$sg@@g$9G*99***Gg@grs$@@G*`` `</tspan>
+    <tspan x="204.4" y="430.7" textLength="181.3" lengthAdjust="spacing">` *@@@@@@@@@@@@G***""rs@@@@$$$@@G*` `</tspan>
+    <tspan x="209.3" y="440.1" textLength="176.4" lengthAdjust="spacing">sg@@@@@@G$@@@@gr_ _rr@@@@@@@@@@G`  `</tspan>
+    <tspan x="209.3" y="449.5" textLength="176.4" lengthAdjust="spacing">"*@@@@@GG$@@@@@@@@@@@@@@F*9@@@@*` g@</tspan>
+    <tspan x="214.2" y="458.9" textLength="171.5" lengthAdjust="spacing">@g***```""*9@@@@@@09***" `**9*`_@@@</tspan>
+    <tspan x="214.2" y="468.3" textLength="171.5" lengthAdjust="spacing">@@@_       ``*9@G*``          y@@@j</tspan>
+    <tspan x="214.2" y="477.7" textLength="171.5" lengthAdjust="spacing">@@@@g_        "*`           _@@@@@j</tspan>
+    <tspan x="214.2" y="487.1" textLength="171.5" lengthAdjust="spacing">@@@@@@g_                  _@@@@@@@`</tspan>
+    <tspan x="214.2" y="496.5" textLength="166.6" lengthAdjust="spacing">@@@@@@@@gg_           __g@@@@@@G@@</tspan>
+    <tspan x="209.3" y="505.9" textLength="176.4" lengthAdjust="spacing">,@@@@@@@@@@@@@@ggyyysg@@@@@@@@@@@@@L</tspan>
+    <tspan x="209.3" y="515.3" textLength="171.5" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@GGG$GG@@</tspan>
+    <tspan x="199.5" y="524.7" textLength="274.4" lengthAdjust="spacing">_@@@@@@@@@@@@@@@@@@@9G$G$@@$GGG*GG$@@          _~_  ___g</tspan>
+    <tspan x="179.9" y="534.1" textLength="294.0" lengthAdjust="spacing">__ y@@@@@@@@@@@@@@@@@$$Gss$$$@@$Grrrs$$@@g________/*9@@@@@@@</tspan>
+    <tspan x="175.0" y="543.5" textLength="298.9" lengthAdjust="spacing">`*@@@@@@@@@@@@$@@@@@@@@@$$$$@@@@@$srrsG$@@@@@@@@@@F``"*$@@@@F</tspan>
+    <tspan x="150.5" y="552.9" textLength="338.1" lengthAdjust="spacing">-rr``  `9@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$$$sss$@@@@@@@@0"  ``g@@$@@@gy_</tspan>
+    <tspan x="116.2" y="562.3" textLength="396.9" lengthAdjust="spacing">__-rr**r**`     `9@@@@@@@@@@@@@@@@@@@@@@@@@@@@$$sss$@@@@@@P"   "g@@@@@@@@@@@@@  _</tspan>
+    <tspan x="111.3" y="571.7" textLength="416.5" lengthAdjust="spacing">r9G***"****"`      `*0@@@@@@@@@@@@@@@@@@@@@@@@@@@$$$$@@@0*`   `y@@@@@@@G@@@$@@@L`@@k_</tspan>
+    <tspan x="67.2" y="581.1" textLength="475.3" lengthAdjust="spacing">,--sG*  "rG*`"""***""""        `"*99@@@@@@@@@@@@9GG$G@@@@@@@@@9*``   _g@Gg@@@@@@G9@@@$@@@ "@@*@g_</tspan>
+    <tspan x="57.4" y="590.5" textLength="499.8" lengthAdjust="spacing">-"**s$"  rr**``"*rrr*"`"```           ```**********""*****9***``    _g@@g@@@@@@@@@@/*@@@G9@k 4@`J@@@s_</tspan>
+    <tspan x="47.6" y="599.9" textLength="519.4" lengthAdjust="spacing">r*"""r$*  r****``rrrrr*"``""````                                 __gs0Gg@@@@@@@@@@@@@&amp;`@@0k`@&amp; J@`J@@@@@@~</tspan>
+    <tspan x="32.9" y="609.3" textLength="543.9" lengthAdjust="spacing">rr***""r$G` `*``*" `******""""``"``````                      __sas*****g@@@@@@099G****"** J@G" J&amp; J@`J@@@@@F`sg</tspan>
+    <tspan x="28.0" y="618.7" textLength="548.8" lengthAdjust="spacing">rr*"``""r$*  `` `*r`````````"``""""``````                     "*"`"""""****"`````````"ss*` `@@r`"* "@^J@@@GF`"*9</tspan>
+    <tspan x="28.0" y="628.1" textLength="548.8" lengthAdjust="spacing">r*"````r$G*  `  `""`` ```````        ``````                  _`rrrr****"""`````````""*@$r`  4@k""` "@ "@@*r"```"</tspan>
+    <tspan x="28.0" y="637.5" textLength="548.8" lengthAdjust="spacing">**`````r$r"     ``"``````````            ``                 r********""""""""""""""""*@@y`  "@@r"  "$ `@0"r```""</tspan>
+    <tspan x="28.0" y="646.9" textLength="548.8" lengthAdjust="spacing">*"`  `r$G*"     ````` ```````                              rr**rr**""""***""""""""""""9@@r`  J@g"  rF "**r* `"*s</tspan>
+    <tspan x="28.0" y="656.3" textLength="548.8" lengthAdjust="spacing">``  `rrr*"``      ``` ``````` ``` ```````  `              rr*******"""rr**"**"""*""""*$@@g`  `@@"  J* "r*r`  rs*</tspan>
+    <tspan x="28.0" y="665.7" textLength="548.8" lengthAdjust="spacing">`   rrr*"```  `   ``` ````````````````````````````       rrr****"""""********"""*"""""J@@@r`  *@L  J` `""r  "r*`</tspan>
+    <tspan x="28.0" y="675.1" textLength="539.0" lengthAdjust="spacing">`  "r**`           ``  ```` ````````````````````````    rsrrr****""""******""""""**""""s@@0@   4L  r`  `"` -r`</tspan>
+  </text>
+
+  <!-- info panel -->
+
+  <!-- IDENTITY -->
+  <text class="head" x="632.8" y="82.5" textLength="68.8" lengthAdjust="spacing">IDENTITY</text>
+  <line class="rule" x1="714.5" y1="78.0" x2="1092" y2="78.0"/>
+  <text class="k" x="632.8" y="104.5" textLength="33.6" lengthAdjust="spacing">Name</text>
+  <line class="lead" x1="676.4" y1="101.0" x2="740.8000000000001" y2="101.0"/>
+  <text class="vb" x="750.8" y="104.5">Muhammad Ali</text>
+  <text class="k" x="632.8" y="124.5" textLength="42.0" lengthAdjust="spacing">Title</text>
+  <line class="lead" x1="684.8" y1="121.0" x2="740.8000000000001" y2="121.0"/>
+  <text class="v" x="750.8" y="124.5">Python Developer | Data Analyst</text>
+  <text class="k" x="632.8" y="144.5" textLength="50.4" lengthAdjust="spacing">GitHub</text>
+  <line class="lead" x1="693.2" y1="141.0" x2="740.8000000000001" y2="141.0"/>
+  <text class="v" x="750.8" y="144.5">Muhammad-AliCyber07</text>
+
+  <!-- ENVIRONMENT -->
+  <text class="head" x="632.8" y="181.0" textLength="94.6" lengthAdjust="spacing">ENVIRONMENT</text>
+  <line class="rule" x1="740.3" y1="176.5" x2="1092" y2="176.5"/>
+  <text class="k" x="632.8" y="203.0" textLength="16.8" lengthAdjust="spacing">OS</text>
+  <line class="lead" x1="659.6" y1="199.5" x2="740.8000000000001" y2="199.5"/>
+  <text class="v" x="750.8" y="203.0">Windows 11</text>
+  <text class="k" x="632.8" y="223.0" textLength="100.8" lengthAdjust="spacing">IDE / Editor</text>
+  <line class="lead" x1="743.6" y1="219.5" x2="740.8000000000001" y2="219.5"/>
+  <text class="v" x="750.8" y="223.0">VS Code, Android Studio</text>
+
+  <!-- TECH STACK -->
+  <text class="head" x="632.8" y="259.5" textLength="86.0" lengthAdjust="spacing">TECH STACK</text>
+  <line class="rule" x1="731.7" y1="255.0" x2="1092" y2="255.0"/>
+  <text class="k" x="632.8" y="281.5" textLength="75.6" lengthAdjust="spacing">Languages</text>
+  <line class="lead" x1="718.4" y1="278.0" x2="1092" y2="278.0"/>
+  <text class="v" x="646.8" y="301.5">Python, Kotlin, JavaScript, Java, CSS, HTML</text>
+  <text class="k" x="632.8" y="321.5" textLength="184.8" lengthAdjust="spacing">Frameworks &amp; Libraries</text>
+  <line class="lead" x1="827.6" y1="318.0" x2="1092" y2="318.0"/>
+  <text class="v" x="646.8" y="341.5">FastAPI, Flask, React, TensorFlow</text>
+  <text class="k" x="632.8" y="361.5" textLength="42.0" lengthAdjust="spacing">Tools</text>
+  <line class="lead" x1="684.8" y1="358.0" x2="1092" y2="358.0"/>
+  <text class="v" x="646.8" y="381.5">Git, GitHub, Gradle, Android Studio, VS Code,</text>
+  <text class="v" x="646.8" y="401.5">Claude Code</text>
+
+  <!-- INTERESTS -->
+  <text class="head" x="632.8" y="438.0" textLength="77.4" lengthAdjust="spacing">INTERESTS</text>
+  <line class="rule" x1="723.1" y1="433.5" x2="1092" y2="433.5"/>
+  <text class="v" x="632.8" y="460.0">Python · Web Development · Android Development</text>
+  <text class="v" x="632.8" y="480.0">Data Visualization</text>
+
+  <!-- CONTACT -->
+  <text class="head" x="632.8" y="516.5" textLength="60.2" lengthAdjust="spacing">CONTACT</text>
+  <line class="rule" x1="705.9" y1="512.0" x2="1092" y2="512.0"/>
+  <text class="k" x="632.8" y="538.5" textLength="50.4" lengthAdjust="spacing">GitHub</text>
+  <line class="lead" x1="693.2" y1="535.0" x2="740.8000000000001" y2="535.0"/>
+  <a href="https://github.com/Muhammad-AliCyber07"><text class="v" x="750.8" y="538.5">github.com/Muhammad-AliCyber07</text></a>
+  <text class="k" x="632.8" y="558.5" textLength="67.2" lengthAdjust="spacing">LinkedIn</text>
+  <line class="lead" x1="710.0" y1="555.0" x2="740.8000000000001" y2="555.0"/>
+  <a href="https://www.linkedin.com/in/muhammad-alicyber07/"><text class="v" x="750.8" y="558.5">linkedin.com/in/muhammad-alicyber07</text></a>
+  <text class="k" x="632.8" y="578.5" textLength="42.0" lengthAdjust="spacing">Email</text>
+  <line class="lead" x1="684.8" y1="575.0" x2="740.8000000000001" y2="575.0"/>
+  <a href="mailto:muhammadali36680@gmail.com"><text class="v" x="750.8" y="578.5">muhammadali36680@gmail.com</text></a>
+
+  <!-- GITHUB STATS -->
+  <text class="head" x="632.8" y="615.0" textLength="103.2" lengthAdjust="spacing">GITHUB STATS</text>
+  <line class="rule" x1="748.9" y1="610.5" x2="1092" y2="610.5"/>
+  <text class="k" x="632.8" y="637.0" textLength="58.8" lengthAdjust="spacing">Summary</text>
+  <line class="lead" x1="701.6" y1="633.5" x2="740.8000000000001" y2="633.5"/>
+  <text class="v" x="750.8" y="637.0">[YOUR GITHUB STATS]</text>
+  <text class="k" x="632.8" y="657.0" textLength="42.0" lengthAdjust="spacing">Repos</text>
+  <text class="v" x="682.8" y="657.0">[00]</text>
+  <text class="k" x="785.9" y="657.0" textLength="42.0" lengthAdjust="spacing">Stars</text>
+  <text class="v" x="835.9" y="657.0">[00]</text>
+  <text class="k" x="938.9" y="657.0" textLength="75.6" lengthAdjust="spacing">Followers</text>
+  <text class="v" x="1022.5" y="657.0">[00]</text>
+
+  <!-- prompt -->
+  <text class="prompt-user" x="28" y="727.0" textLength="218.4" lengthAdjust="spacing">Muhammad-AliCyber07@github</text>
+  <text class="prompt" x="246.4" y="727.0" textLength="25.2" lengthAdjust="spacing">:~$</text>
+  <rect class="cursor" x="280.0" y="714.0" width="8" height="15"/>
+</svg>
